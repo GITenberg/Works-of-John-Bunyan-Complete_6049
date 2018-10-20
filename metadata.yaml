@@ -1,5 +1,5 @@
 _repo: Works-of-John-Bunyan-Complete_6049
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -40,5 +40,6 @@ subjects:
 - !lcsh 'Christian literature, English -- History and criticism'
 - !lcsh 'Bunyan, John, 1628-1688'
 - !lcsh 'Christian literature, English'
+- GITenberg
 title: Works of John Bunyan — Complete
 url: http://www.gutenberg.org/ebooks/6049
